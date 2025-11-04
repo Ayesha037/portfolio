@@ -1,0 +1,16 @@
+{
+  "name": "Portfolio - Mohammad Ayesha",
+  "short_name": "Ayesha",
+  "theme_color": "#7c3aed",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
+
